@@ -50,11 +50,12 @@ npm run dev
 
 Para agregar capturas de pantalla de las diferentes partes del sitio web, sigue estos pasos:
 
-1. **Home:** 
+1. **Home:**
+
 ![Screenshot 2024-05-05 205300](https://github.com/landr3s/blog-eminem/assets/99095150/1bb7d141-8897-4436-8824-51dde7fe5c24)
 ![Screenshot 2024-05-05 205417](https://github.com/landr3s/blog-eminem/assets/99095150/4fa4c541-7d21-4c1d-b034-5ef94a870f19)
 
-2. **Bio:**
+3. **Bio:**
    
 ![Screenshot 2024-05-05 205525](https://github.com/landr3s/blog-eminem/assets/99095150/cbcc570b-77e5-4d7e-a6b0-a643a005c6e5)
 
