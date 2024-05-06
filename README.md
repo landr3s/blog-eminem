@@ -2,7 +2,7 @@
 
 ## Defensa del Trabajo
 
-El presente trabajo realizado para la asignatura de Plataformas Web en la Universidad Politécnica Salesiana tiene como objetivo principal demostrar el dominio de los conceptos y herramientas aprendidos durante el curso. A continuación, se detallan las partes que componen este proyecto:
+El presente trabajo realizado para la asignatura de Plataformas Web, tiene como objetivo principal demostrar el dominio de los conceptos y herramientas aprendidos durante el curso. A continuación, se detallan las partes que componen este proyecto:
 
 1. **Marco Teórico:** Se abordan los fundamentos teóricos relacionados con el desarrollo web utilizando HTML5, CSS3 y otras tecnologías modernas, como en este caso el uso del Framework Astro.
 
@@ -14,7 +14,7 @@ El presente trabajo realizado para la asignatura de Plataformas Web en la Univer
 
 - **Nombre:** Andrés David Guamán Orquera
 - **Universidad:** Universidad Politécnica Salesiana
-- **Carrera:** Ingeniería en Sistemas
+- **Carrera:** Ingeniería en Ciencias de la Computación
 - **Fecha:** Domingo 5 de Mayo del 2024
 
 ## Evaluación de la Guía de Estudio
@@ -34,7 +34,7 @@ La guía de estudio realizada para la asignatura cumple con los siguientes crite
 
 # Acerca del Proyecto
 
-Este proyecto es una aplicación web desarrollada como parte del curso de Plataformas Web en la Universidad Politécnica Salesiana. A continuación, se detallan las instrucciones para levantar el entorno de ejecución y cómo agregar capturas de pantalla de las diferentes partes del sitio web.
+A continuación, se detallan las instrucciones para levantar el entorno de ejecución y cómo agregar capturas de pantalla de las diferentes partes del sitio web.
 
 ## Levantar el Entorno de Ejecución
 
