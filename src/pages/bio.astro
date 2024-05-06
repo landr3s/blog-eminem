@@ -1,0 +1,156 @@
+---
+import Layout from "../layouts/Layout.astro"
+---
+
+<Layout title="Eminem - Bio">
+  <main class="max-w-[800px] mx-auto p-4">
+    <h1 class="text-4xl font-bold mb-8">Biografía de Eminem</h1>
+
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">1996-1998</h2>
+          <h3 class="timeline-title">
+            Carrera Temprana, "Infinite" y Problemas Familiares
+          </h3>
+          <p class="timeline-description">
+            Eminem pronto firmó con Jeff y Mark Bass de F.B.T. Productions y
+            grabó su álbum debut "Infinite" para su sello independiente Web
+            Entertainment. El álbum fue un fracaso comercial tras su lanzamiento
+            en 1996.
+          </p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">2000-2001</h2>
+          <h3 class="timeline-title">
+            The Marshall Mathers LP y The Eminem Show
+          </h3>
+          <p class="timeline-description">
+            En el año 2000, Eminem lanzó su aclamado álbum "The Marshall Mathers
+            LP", seguido de "The Eminem Show" en 2002. Ambos álbumes fueron
+            éxitos comerciales y críticos, consolidando su posición como uno de
+            los mayores artistas de rap.
+          </p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">2004-2005</h2>
+          <h3 class="timeline-title">
+            Trabajo como Productor, Encore e Hiato Musical
+          </h3>
+          <p class="timeline-description">
+            Durante este período, Eminem se tomó un descanso de la música
+            después del lanzamiento de su álbum "Encore" en 2004. También se
+            dedicó al trabajo como productor y colaboró con otros artistas en
+            diversos proyectos.
+          </p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">2007-2009</h2>
+          <h3 class="timeline-title">Regreso y "Relapse"</h3>
+          <p class="timeline-description">
+            Eminem regresó a la escena musical con su álbum "Relapse" en 2009,
+            después de un período de lucha personal y adicción a las drogas. El
+            álbum recibió críticas mixtas pero fue un éxito comercial.
+          </p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">2010-2012</h2>
+          <h3 class="timeline-title">"Recovery" y Reunión de Bad Meets Evil</h3>
+          <p class="timeline-description">
+            En 2010, Eminem lanzó "Recovery", un álbum que marcó su regreso
+            triunfal después de su lucha con la adicción. También se reunió con
+            el rapero Royce da 5'9" para formar el dúo Bad Meets Evil y lanzar
+            el álbum "Hell: The Sequel".
+          </p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">2012-2014</h2>
+          <h3 class="timeline-title">"The Marshall Mathers LP 2"</h3>
+          <p class="timeline-description">
+            Eminem lanzó "The Marshall Mathers LP 2" en 2013, una secuela de su
+            aclamado álbum de 2000. El álbum recibió elogios de la crítica y fue
+            otro éxito comercial para el rapero.
+          </p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">2014-2017</h2>
+          <h3 class="timeline-title">"Shady XV" y "Southpaw"</h3>
+          <p class="timeline-description">
+            Eminem lanzó "Shady XV" en 2014, un álbum recopilatorio que incluía
+            nuevas canciones y éxitos anteriores. También contribuyó con la
+            banda sonora de la película "Southpaw" en 2015.
+          </p>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-content">
+          <h2 class="timeline-year">2017-2019</h2>
+          <h3 class="timeline-title">"Revival" y "Kamikaze"</h3>
+          <p class="timeline-description">
+            Eminem lanzó "Revival" en 2017, seguido de "Kamikaze" en 2018, ambos
+            álbumes recibieron opiniones mixtas de la crítica y el público. Sin
+            embargo, "Kamikaze" fue elogiado por su retorno a un estilo más
+            agresivo.
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <style>
+    .timeline {
+      position: relative;
+      overflow: hidden;
+      margin: 0 auto;
+      padding: 0;
+    }
+
+    .timeline-item {
+      padding: 20px 0;
+      border-bottom: 2px solid #ddd;
+    }
+
+    .timeline-content {
+      padding: 20px;
+    }
+
+    .timeline-year {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    .timeline-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+
+    .timeline-description {
+      color: #fff;
+    }
+
+    /* Transición de scroll */
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</Layout>
