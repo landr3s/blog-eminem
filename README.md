@@ -48,8 +48,6 @@ npm run dev
 
 ## Capturas de Pantalla
 
-Para agregar capturas de pantalla de las diferentes partes del sitio web, sigue estos pasos:
-
 1. **Home:**
 
 ![Screenshot 2024-05-05 205300](https://github.com/landr3s/blog-eminem/assets/99095150/1bb7d141-8897-4436-8824-51dde7fe5c24)
