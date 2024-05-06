@@ -68,3 +68,6 @@ npm run dev
 ## Conclusión
 
 El desarrollo de este proyecto ha permitido aplicar de manera práctica los conocimientos adquiridos en la asignatura de Plataformas Web. Se ha logrado crear una guía de estudio interactiva y funcional que cumple con los requisitos establecidos. Este trabajo representa un paso importante en el proceso de aprendizaje y refuerza la comprensión de los conceptos fundamentales del desarrollo web.
+
+## Revisiones
+Usar mejores tonalidades de colores o a su vez plantear la funcionalidad para el uso de temas (claro o oscuro) en base al sistema o preferencia del usuario.
